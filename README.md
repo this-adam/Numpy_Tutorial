@@ -1,5 +1,7 @@
 # INTRODUCTION TO NUMPY
 
+>[!IMPORTANT]
+>
 > This is a beginner friendly notebook for learning NumPy and its operations. The content here is modified to fit the 2025 PCPS syllabus.
 [Click here](https://www.w3schools.com/python/numpy/default.asp) for more in-depth learning.
 
